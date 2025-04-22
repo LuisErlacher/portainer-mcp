@@ -1,0 +1,15 @@
+{
+  "mcpServers": {
+    "portainer": {
+      "command": "C:\\path\\to\\portainer-mcp.exe",
+      "args": [
+        "-server",
+        "portainer.automatizase.cloud",
+        "-token",
+        "ptr_IwywyoTtZcbwxcD6AE2kC4qdSFpsGQ8jO9Nw5f0qEJo=",
+        "-tools",
+        "%TEMP%\\portainer-tools.yaml"
+      ]
+    }
+  }
+}
